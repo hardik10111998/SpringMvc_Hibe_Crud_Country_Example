@@ -1,0 +1,3 @@
+default.configuration=SpringMvc_Hibe_Crud_Country
+eclipse.preferences.version=1
+hibernate3.enabled=true
